@@ -3,4 +3,7 @@ sidebar_position: 1
 ---
 # Welcome to nookure docs
 
-### Selec a documentation to view
+### Select a documentation to view
+
+[![MAStaff Logo](/img/mastaff/logo-mini.png)](mastaff/intro)
+
