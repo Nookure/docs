@@ -4,32 +4,30 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Easy to understand',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        This wiki was designed to answer the most of faq's and to be easy to
+        understand.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'You do not understand something?',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Join our discord server and ask your question in the support channel.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'View My Resources',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        BuiltByBit: <a href="https://builtbybit.com/members/angelillo.321679/">https://builtbybit.com/Angelillo15</a> <br></br>
       </>
     ),
   },
