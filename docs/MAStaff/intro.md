@@ -1,7 +1,6 @@
 ---
 sidebar_position: 1
 ---
-
 # Let's get started
 
 First you have to download the plugin from one of this pages
@@ -19,12 +18,12 @@ Polymart: [https://polymart.org/resource/mastaff.3051](https://polymart.org/reso
 * Bungeecord for global StaffChat
 
 
-|                                             | Spigot |   Buggecord |
-| :------------------------------------------ | ---------- | ----------- |
-| Global staff chat                           | ❌        | ✔        |
-| Global staff mode enable/disable messages   | ❌        | ✔        |
-| Vanish                                      | ✔         | ❌        |
-| Staff Mode                                  | ✔         | ❌        |
-
+|                                           | Spigot | Buggecord |
+| :------------------------------------------ | :------- | ----------- |
+| Global staff chat                         | ❌     | ✔        |
+| Global staff mode enable/disable messages | ❌     | ✔        |
+| Vanish                                    | ✔     | ❌        |
+| Staff Mode                                | ✔     | ❌        |
+| Helpop                                    | ❌     | ✔        |
 
 * Bungeecord is only a bridge

@@ -1,7 +1,6 @@
 ---
 sidebar_position: 2
 ---
-
 # Databases
 
 MAStaff supports MySQL and SQLite databases.
@@ -10,7 +9,7 @@ MAStaff supports MySQL and SQLite databases.
 
 
 |                   | MySQL | SQLite |
-| ------------------- | ------- | -------- |
+| ------------------- | ------- | :------- |
 | Sync staff mode   | ✔    | ❌     |
 | Sync vanish       | ✔    | ❌     |
 | Global staff mode | ✔    | ❌     |
