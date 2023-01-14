@@ -5,7 +5,7 @@ sidebar_position: 2
 # Glow
 
 :::warning
-This module only works if you have Vault installed
+This module only works if you have Vault and eGlow installed
 :::
 
 You only need to add the group name as a key and it color as a children
@@ -50,3 +50,4 @@ Config:
 ```
 </details>
 
+* If you modify something remeber to reload the plugin with **/mast reload**
