@@ -1,6 +1,7 @@
 {
   "name": "nookure-docs",
   "version": "0.0.0",
+  "license": "GNU General Public License v3.0",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
@@ -11,7 +12,8 @@
     "clear": "docusaurus clear",
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
-    "write-heading-ids": "docusaurus write-heading-ids"
+    "write-heading-ids": "docusaurus write-heading-ids",
+    "dev": "docusaurus start"
   },
   "dependencies": {
     "@docusaurus/core": "2.2.0",

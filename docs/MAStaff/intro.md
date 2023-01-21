@@ -13,7 +13,7 @@ Polymart: [https://polymart.org/resource/mastaff.3051](https://polymart.org/reso
 
 ## Requirements
 
-* Spigot 1.8.8 + Server
+* Spigot 1.7.10 - 1.19.X Server
 * MariaDB or MySQL for MultiServer
 * Bungeecord for global StaffChat
 
